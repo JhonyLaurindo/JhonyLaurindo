@@ -1,13 +1,15 @@
+# Bem-vindo(a) ao Perfil de [JHONY]!
 
-## Seja muito bem-vindo! 😎💻  
-## Aqui irei disponibilizar uma demonstração de técnicas sofisticadas utilizando HTML, CSS e JavaScript.
+Olá! Me chamo [Jhony Wesley] e este é o meu espaço no GitHub onde compartilho projetos, ideias e colaborações. Fico feliz em ver você aqui!
 
-## Índice
+## Sobre Mim
 
-- [EM BREVE](#.)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
+Sou um(a) [Iniciente em Front], apaixonado(a) por tecnologia e inovação. Busco ter experiência em todos os tipos de linguagens e estou sempre em busca de novos desafios.
 
-## Como Usar
+```python
+# Aqui está um pouco do meu código...
 
-### Exemplo de importação de módulo em JavaScript
+def boas_vindas():
+    print("Obrigado(a) por visitar meu perfil!")
+
+boas_vindas()
