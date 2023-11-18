@@ -32,7 +32,8 @@ Breve 2 - .
 ## Entre em Contato
 📧 Email: [devjdesigner@gmail.com]
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jhony-wesley-02b6a8288/)
+🔗 [LinkedIn]
+(https://www.linkedin.com/in/jhony-wesley-02b6a8288/)
 
 ## Contribuições e Feedback
 Estou sempre aberto a receber contribuições e feedback. Se você tiver algo a compartilhar, por favor, sinta-se à vontade para abrir uma issue, enviar um pull request ou entrar diretamente em contato comigo.
